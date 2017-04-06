@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.minify">
+    <module_version install_time="1482290962630" last="true" origin="1468741540_org-netbeans-minify.nbm" specification_version="2.2.2">
+        <file crc="2887935081" name="config/Modules/org-netbeans-minify.xml"/>
+        <file crc="1262080743" name="modules/ext/code-minify.jar"/>
+        <file crc="2726354280" name="modules/ext/gson-2.2.3.jar"/>
+        <file crc="2806420106" name="modules/ext/html-minify.jar"/>
+        <file crc="2046002811" name="modules/ext/image-compressor.jar"/>
+        <file crc="1209362325" name="modules/org-netbeans-minify.jar"/>
+    </module_version>
+</module>

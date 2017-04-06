@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="com.sqldalmaker.netbeans">
+    <module_version install_time="1491442741746" last="true" origin="Portal de plugins" specification_version="1.10">
+        <file crc="39475584" name="config/Modules/com-sqldalmaker-netbeans.xml"/>
+        <file crc="2302870214" name="modules/com-sqldalmaker-netbeans.jar"/>
+        <file crc="2769171989" name="modules/ext/com-sqldalmaker.jar"/>
+        <file crc="463785215" name="modules/ext/velocity-1.7-dep.jar"/>
+    </module_version>
+</module>

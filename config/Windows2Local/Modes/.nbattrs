@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="bottomSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue="output/search-results"/>
+    </fileobject>
+    <fileobject name="code_evaluator">
+        <attr name="WinSys-TCRef-Order" stringvalue="evaluatorPane"/>
+    </fileobject>
+    <fileobject name="commonpalette">
+        <attr name="WinSys-TCRef-Order" stringvalue="CommonPalette"/>
+    </fileobject>
+    <fileobject name="editor">
+        <attr name="WinSys-TCRef-Order" stringvalue="Welcome/MultiView-php#002EsouFACC1D43xt#002Ehistory#007C_3/MultiView-php#002Esou5EB78B2Ft#002Ehistory#007C_21/MultiView-php#002Esou5EB78B32t#002Ehistory#007C_24/MultiView-php#002Esou5EB78B31t#002Ehistory#007C_23/MultiView-php#002Esou5EB78B33t#002Ehistory#007C_25/MultiView-php#002Esou5EB78B34t#002Ehistory#007C_26/MultiView-html#002Eso429D70C1text#002Ehistory#007C/MultiView-php#002EsouD271294Ftext#002Ehistory#007C/MultiView-php#002EsouFACC1D41xt#002Ehistory#007C_1/MultiView-php#002EsouFACC1D42xt#002Ehistory#007C_2/MultiView-php#002EsouFACC1D44xt#002Ehistory#007C_4/MultiView-php#002EsouFACC1D45xt#002Ehistory#007C_5/MultiView-javascript9BE7A9A5text#002Ehistory#007C/CoverageReportTopComponent"/>
+    </fileobject>
+    <fileobject name="explorer">
+        <attr name="WinSys-TCRef-Order" stringvalue="projectTabLogical_tc/projectTab_tc/services/favorites/DashboardTopComponent/debuggingView"/>
+    </fileobject>
+    <fileobject name="navigator">
+        <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC/DomTC/PhpHierarchyTopComponent"/>
+    </fileobject>
+    <fileobject name="output">
+        <attr name="WinSys-TCRef-Order" stringvalue="watchesView/NotificationCenterTopComponent/localsView/resultsView/callstackView/breakpointsView/sources/sessionsView/threadsView/bookmarks/versioning_output/gsf-testrunner-results/refactoring-preview/find-usages/TerminalContainerTopComponent/svnversioning/hgversioningTC/GitVersioning/GitRepositories/TaskListTopComponent/ReporterResultTopComponent/AnalysisResultTopComponent"/>
+    </fileobject>
+    <fileobject name="properties">
+        <attr name="WinSys-TCRef-Order" stringvalue="KnockoutTC/properties"/>
+    </fileobject>
+    <fileobject name="rightSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue="CssStylesTC"/>
+    </fileobject>
+</attributes>

@@ -1,0 +1,190 @@
+mar 28, 2017 8:36:59 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+mar 28, 2017 8:37:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando me-dsnet-quickopener.nbm
+mar 28, 2017 8:37:02 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\me-dsnet-quickopener.nbm:netbeans/config/Modules/me-dsnet-quickopener.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\me-dsnet-quickopener.xml
+mar 28, 2017 8:37:02 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\me-dsnet-quickopener.nbm:netbeans/modules/ext/me.dsnet.quickopener/org-jdesktop/beansbinding.jar to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\me.dsnet.quickopener\org-jdesktop\beansbinding.jar
+mar 28, 2017 8:37:02 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\me-dsnet-quickopener.nbm:netbeans/modules/me-dsnet-quickopener.jar to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\me-dsnet-quickopener.jar
+mar 28, 2017 8:37:02 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\me-dsnet-quickopener.nbm:netbeans/update_tracking/me-dsnet-quickopener.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\me-dsnet-quickopener.xml
+mar 28, 2017 8:37:02 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\me-dsnet-quickopener.nbm deleted.
+mar 28, 2017 8:37:02 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@294f8fc3
+mar 28, 2017 8:37:02 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\me-dsnet-quickopener.xml modified.
+mar 28, 2017 8:37:07 PM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\additional_information.xml deleted.
+mar 28, 2017 8:40:54 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+mar 28, 2017 8:40:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando com-revivius-nb-darcula.nbm
+mar 28, 2017 8:40:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-revivius-nb-darcula.nbm:netbeans/config/Modules/com-revivius-nb-darcula.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\com-revivius-nb-darcula.xml
+mar 28, 2017 8:40:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-revivius-nb-darcula.nbm:netbeans/modules/com-revivius-nb-darcula.jar to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-revivius-nb-darcula.jar
+mar 28, 2017 8:40:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-revivius-nb-darcula.nbm:netbeans/modules/ext/com.revivius.nb-darcula/com-bulenkov/darcula.jar to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\com.revivius.nb-darcula\com-bulenkov\darcula.jar
+mar 28, 2017 8:40:55 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-revivius-nb-darcula.nbm deleted.
+mar 28, 2017 8:40:55 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@38b31e7b
+mar 28, 2017 8:40:56 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\com-revivius-nb-darcula.xml modified.
+mar 28, 2017 8:40:56 PM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\additional_information.xml deleted.
+abr 05, 2017 9:54:23 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+abr 05, 2017 9:54:24 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando org-lorenzos-emmet.nbm
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\org-lorenzos-emmet.nbm:netbeans/config/Modules/org-lorenzos-emmet.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\org-lorenzos-emmet.xml
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\org-lorenzos-emmet.nbm:netbeans/modules/ext/gson.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\gson.jar.pack.gz
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\gson.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\gson.jar
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\gson.jar.pack.gz deleted.
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\org-lorenzos-emmet.nbm:netbeans/modules/ext/js.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\js.jar.pack.gz
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\js.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\js.jar
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\js.jar.pack.gz deleted.
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\org-lorenzos-emmet.nbm:netbeans/modules/org-lorenzos-emmet.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\org-lorenzos-emmet.jar.pack.gz
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\org-lorenzos-emmet.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\org-lorenzos-emmet.jar
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\org-lorenzos-emmet.jar.pack.gz deleted.
+abr 05, 2017 9:54:25 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\org-lorenzos-emmet.nbm deleted.
+abr 05, 2017 9:54:25 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@5d7c1719
+abr 05, 2017 9:54:25 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\org-lorenzos-emmet.xml modified.
+abr 05, 2017 9:54:28 PM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\additional_information.xml deleted.
+abr 05, 2017 10:37:18 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+abr 05, 2017 10:37:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando org-netbeans-modules-html-preview.nbm
+abr 05, 2017 10:37:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\org-netbeans-modules-html-preview.nbm:netbeans/config/Modules/org-netbeans-modules-html-preview.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\org-netbeans-modules-html-preview.xml
+abr 05, 2017 10:37:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\org-netbeans-modules-html-preview.nbm:netbeans/modules/org-netbeans-modules-html-preview.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\org-netbeans-modules-html-preview.jar.pack.gz
+abr 05, 2017 10:37:19 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\org-netbeans-modules-html-preview.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\org-netbeans-modules-html-preview.jar
+abr 05, 2017 10:37:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\org-netbeans-modules-html-preview.jar.pack.gz deleted.
+abr 05, 2017 10:37:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\org-netbeans-modules-html-preview.nbm deleted.
+abr 05, 2017 10:37:19 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@1f14db6a
+abr 05, 2017 10:37:20 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\org-netbeans-modules-html-preview.xml modified.
+abr 05, 2017 10:37:20 PM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\additional_information.xml deleted.
+abr 05, 2017 10:39:00 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFORMA합ES: Entering updater.jar .................................................................... 
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando com-junichi11-netbeans-php-enhancements.nbm
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-php-enhancements.nbm:netbeans/config/Modules/com-junichi11-netbeans-php-enhancements.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\com-junichi11-netbeans-php-enhancements.xml
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-php-enhancements.nbm:netbeans/modules/com-junichi11-netbeans-php-enhancements.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-junichi11-netbeans-php-enhancements.jar.pack.gz
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-junichi11-netbeans-php-enhancements.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-junichi11-netbeans-php-enhancements.jar
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-junichi11-netbeans-php-enhancements.jar.pack.gz deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-php-enhancements.nbm:netbeans/modules/ext/LICENSE to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\LICENSE
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-php-enhancements.nbm:netbeans/modules/ext/gson-2.2.4-for-php-enhancements.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\gson-2.2.4-for-php-enhancements.jar.pack.gz
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\gson-2.2.4-for-php-enhancements.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\gson-2.2.4-for-php-enhancements.jar
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\gson-2.2.4-for-php-enhancements.jar.pack.gz deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-php-enhancements.nbm deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@7b54b424
+abr 05, 2017 10:39:01 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\com-junichi11-netbeans-php-enhancements.xml modified.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando com-junichi11-netbeans-modules-color-codes-preview.nbm
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-modules-color-codes-preview.nbm:netbeans/config/Modules/com-junichi11-netbeans-modules-color-codes-preview.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\com-junichi11-netbeans-modules-color-codes-preview.xml
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-modules-color-codes-preview.nbm:netbeans/modules/com-junichi11-netbeans-modules-color-codes-preview.jar to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-junichi11-netbeans-modules-color-codes-preview.jar
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-modules-color-codes-preview.nbm:netbeans/update_tracking/com-junichi11-netbeans-modules-color-codes-preview.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\com-junichi11-netbeans-modules-color-codes-preview.xml
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-junichi11-netbeans-modules-color-codes-preview.nbm deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@13251fa8
+abr 05, 2017 10:39:01 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\com-junichi11-netbeans-modules-color-codes-preview.xml modified.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando editor-zoom.nbm
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\editor-zoom.nbm:netbeans/config/Modules/editor-zoom.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\editor-zoom.xml
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\editor-zoom.nbm:netbeans/modules/editor-zoom.jar to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\editor-zoom.jar
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\editor-zoom.nbm:netbeans/update_tracking/editor-zoom.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\editor-zoom.xml
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\editor-zoom.nbm deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@3e2a12cd
+abr 05, 2017 10:39:01 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\editor-zoom.xml modified.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando lr-realmdev-nb-obsidiancolorprofile.nbm
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\lr-realmdev-nb-obsidiancolorprofile.nbm:netbeans/config/Modules/lr-realmdev-nb-obsidiancolorprofile.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\lr-realmdev-nb-obsidiancolorprofile.xml
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\lr-realmdev-nb-obsidiancolorprofile.nbm:netbeans/modules/lr-realmdev-nb-obsidiancolorprofile.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\lr-realmdev-nb-obsidiancolorprofile.jar.pack.gz
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\lr-realmdev-nb-obsidiancolorprofile.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\lr-realmdev-nb-obsidiancolorprofile.jar
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\lr-realmdev-nb-obsidiancolorprofile.jar.pack.gz deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\lr-realmdev-nb-obsidiancolorprofile.nbm deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@3870e997
+abr 05, 2017 10:39:01 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\lr-realmdev-nb-obsidiancolorprofile.xml modified.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: 780: Descompactando com-sqldalmaker-netbeans.nbm
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-sqldalmaker-netbeans.nbm:netbeans/config/Modules/com-sqldalmaker-netbeans.xml to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\config\Modules\com-sqldalmaker-netbeans.xml
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-sqldalmaker-netbeans.nbm:netbeans/modules/com-sqldalmaker-netbeans.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-sqldalmaker-netbeans.jar.pack.gz
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-sqldalmaker-netbeans.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-sqldalmaker-netbeans.jar
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\com-sqldalmaker-netbeans.jar.pack.gz deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-sqldalmaker-netbeans.nbm:netbeans/modules/ext/com-sqldalmaker.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\com-sqldalmaker.jar.pack.gz
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\com-sqldalmaker.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\com-sqldalmaker.jar
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\com-sqldalmaker.jar.pack.gz deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: Copied file C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-sqldalmaker-netbeans.nbm:netbeans/modules/ext/velocity-1.7-dep.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\velocity-1.7-dep.jar.pack.gz
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack200
+INFORMA합ES: Unpack C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\velocity-1.7-dep.jar.pack.gz to C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\velocity-1.7-dep.jar
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\modules\ext\velocity-1.7-dep.jar.pack.gz deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.ModuleUpdater unpack
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\com-sqldalmaker-netbeans.nbm deleted.
+abr 05, 2017 10:39:01 PM org.netbeans.updater.XMLUtil write
+INFORMA합ES: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@1f2b7cfe
+abr 05, 2017 10:39:01 PM org.netbeans.updater.UpdateTracking$Module write
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update_tracking\com-sqldalmaker-netbeans.xml modified.
+abr 05, 2017 10:39:02 PM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFORMA합ES: File C:\Users\Rodrigo\AppData\Roaming\NetBeans\8.2\update\download\additional_information.xml deleted.
